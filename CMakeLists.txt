@@ -8,4 +8,6 @@ add_executable(c_refresh main.c
         src/chapter10/getSample.c
         src/chapter10/escSeq.c
         src/chapter10/scanf.c
+        src/chapter11/addSample.c
+        src/chapter11/modSample.c
 )
