@@ -11,4 +11,5 @@ add_executable(c_refresh main.c
         src/chapter11/addSample.c
         src/chapter11/modSample.c
         src/chapter11/divdeByZero.c
+        src/chapter11/avg_two_numbers.c
 )
