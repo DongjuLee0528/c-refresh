@@ -10,7 +10,7 @@ int main(void) {
     printf("두 수를 입력해주세요. EX) 2 5 :");
     scanf("%d %d", &a ,&b);
 
-    avg = (a + b) / 2;
+    avg = (a + b) / 2.0;
 
     printf("두 수의 평균 값은 %f 입니다",avg);
     return 0;
