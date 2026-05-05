@@ -5,14 +5,14 @@
 int main(void) {
     int a =0;
     int b =0;
-    int avg =0;
+    double avg =0.0;
 
     printf("두 수를 입력해주세요. EX) 2 5 :");
     scanf("%d %d", &a ,&b);
 
     avg = (a + b) / 2;
 
-    printf("두 수의 평균 값은 %d 입니다",avg);
+    printf("두 수의 평균 값은 %f 입니다",avg);
     return 0;
 
 }
