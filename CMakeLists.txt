@@ -10,4 +10,5 @@ add_executable(c_refresh main.c
         src/chapter10/scanf.c
         src/chapter11/addSample.c
         src/chapter11/modSample.c
+        src/chapter11/divdeByZero.c
 )
