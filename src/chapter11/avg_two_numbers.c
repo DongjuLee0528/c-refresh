@@ -12,7 +12,7 @@ int main(void) {
 
     avg = (a + b) / 2.0;
 
-    printf("두 수의 평균 값은 %f 입니다",avg);
+    printf("두 수의 평균 값은 %.2f 입니다",avg);
     return 0;
 
 }
